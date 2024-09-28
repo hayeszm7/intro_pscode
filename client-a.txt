@@ -1,4 +1,25 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+ 
 # ------------------------------------------------- #
+
+
+Set Randomnum = Random number between 1-10
+
+Tell user you have 3 guesses to guess the computers randomly selected number between 1-10
+
+Ask user: "Enter a number between 1-10."
+
+int guess;
+
+int counter;
+
+while counter <= 3
+
+if guess == Randomnum print "Congratulations you guessed correctly!"
+ 
+else 
+	counter ++
+	print "You guessed incorrectly, please try again."
+
 
