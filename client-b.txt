@@ -2,3 +2,17 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Have customer select the location they want to go to
+var customerLocation
+var warehouseLocation
+string n = "go north"
+string s = "go south"
+string e = "go east"
+string w = "go west"
+
+if customer is south of location print n
+if customer is north of location print s
+if customer is east of location print w
+if customer is west of location print e
+
+if customerLocation = warehouseLocation print "you have arrived at the correct location"

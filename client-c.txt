@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+int product
+int package
+int case
+
+while package <= 50
+foreach package scanned product +=2 
+
+when packages equal 50 == 1 case
+
+print how many items have been scanned
